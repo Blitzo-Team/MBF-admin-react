@@ -11,6 +11,7 @@ import Clear from "@material-ui/icons/Clear";
 import Check from "@material-ui/icons/Check";
 // core components
 import styles from "assets/jss/material-dashboard-react/components/customInputStyle.js";
+import {DropzoneArea} from 'material-ui-dropzone'
 
 const useStyles = makeStyles(styles);
 
